@@ -19,7 +19,7 @@ At last call the sample index.js:
 node index.js
 ```
 
-## To only try the c code part
+## To only try the part of c code 
 If you want only test the C code, you can modify a function in mycimp.c to 'main'.
 And you can set up a project on Mac, and debug the code.
 Or you can build it on centOS using following command:
